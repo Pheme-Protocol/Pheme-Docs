@@ -20,10 +20,10 @@
 
 | Category | Percentage | Amount | Vesting |
 |----------|------------|--------|---------|
-| Public Sale | 35% | 350M | Unlocked at TGE |
-| Team & Founders | 15% | 150M | 1-month cliff + 24-month linear |
+| Public Sale | 37.5% | 375M | Unlocked at TGE |
+| Team & Founders | 10% | 100M | 1-month cliff + 24-month linear |
 | DAO Treasury | 15% | 150M | Proposal-based release |
-| Liquidity | 10% | 100M | Locked 1 month |
+| Liquidity | 12.5% | 125M | Locked 1 month |
 | Community Rewards | 10% | 100M | Released over 36 months |
 | Marketing | 10% | 100M | Fully unlocked at launch |
 | Airdrops | 5% | 50M | Fully unlocked at launch |
@@ -31,10 +31,10 @@
 ```mermaid
 pie
     title "PHEME Token Distribution"
-    "Public Sale" : 35
-    "Team & Founders" : 15
+    "Public Sale" : 37.5
+    "Team & Founders" : 10
     "DAO Treasury" : 15
-    "Liquidity" : 10
+    "Liquidity" : 12.5
     "Community Rewards" : 10
     "Marketing" : 10
     "Airdrops" : 5
@@ -89,7 +89,6 @@ interface VestingSchedule {
 - Guild perks
 - Governance weight
 
-> 🎮 **Features**: Check [Core Features](../technical/10-skill-system.md) for utility details.
 
 ## Economic Model
 
@@ -119,7 +118,7 @@ interface ValueFlows {
 - Inactive guild dissolution
 - Expired badge recycling
 
-> 💹 **Metrics**: Monitor burn rate on [Analytics Dashboard](https://analytics.phemeai.xyz).
+
 
 ## Liquidity Management
 
@@ -168,7 +167,6 @@ interface ValueFlows {
    - Administrative costs
    - Tool subscriptions
 
-> 📊 **Tracking**: View treasury analytics on [DAO Dashboard](https://dao.phemeai.xyz).
 
 ## Token Security
 
@@ -233,9 +231,7 @@ interface ProposalRights {
 ## Resources
 
 ### Official Links
-- [Token Contract](https://basescan.org/token/pheme)
-- [Github](https://github.com/autonomous-pheme/token)
-- [Documentation](https://docs.phemeai.xyz/token)
+- [Documentation](https://docs.phemeai.xyz)
 
 ### Tools
 - Token Explorer
@@ -251,4 +247,4 @@ This tokenomics model is subject to governance updates based on:
 - Protocol requirements
 - Economic optimization
 
-> 📝 **Changes**: Follow [Version Management](../technical/53-versioning.md) for updates.
+

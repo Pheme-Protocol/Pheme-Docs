@@ -14,7 +14,7 @@ PHEME Protocol implements a comprehensive security model to protect the protocol
 * Regular audits
 * Community oversight
 
-> 🛡️ **Protection**: Review [Technical Security](../technical/05-security.md) for implementation details.
+
 
 ## Smart Contract Security
 
@@ -49,7 +49,7 @@ graph TD
    * Balance validations
    * Transfer limits
 
-> ⚙️ **Technical**: See [Smart Contracts](../developer-guide/01-smart-contracts.md) for implementation.
+
 
 ## Governance Security
 
@@ -110,7 +110,6 @@ interface VotingSecurity {
 * Security events
 * Validator health
 
-> 🔍 **Monitoring**: View system status on [Status Page](https://status.phemeai.xyz).
 
 ## Risk Management
 
@@ -162,7 +161,6 @@ interface RiskMitigation {
 }
 ```
 
-> 🎯 **Planning**: See [Risk Management](../technical/06-risk-management.md) for detailed strategies.
 
 ## Incident Response
 
@@ -197,7 +195,6 @@ interface RiskMitigation {
 * Community alerts
 * Asset protection
 
-> 🚨 **Response**: Follow [Incident Response](../technical/07-incident-response.md) procedures.
 
 ## Audit & Compliance
 
@@ -222,7 +219,7 @@ interface RiskMitigation {
 * Incident reports
 * Audit findings
 
-> 📋 **Records**: Access [Audit Reports](https://github.com/autonomous-pheme/audits).
+
 
 ## Community Security
 
@@ -247,7 +244,6 @@ interface RiskMitigation {
 * Status reports
 * Educational content
 
-> 🤝 **Support**: Join [Security Channel](https://discord.gg/pheme-security).
 
 ## Tools & Resources
 
@@ -275,4 +271,4 @@ The security model is continuously improved through:
 * Industry standards
 * Regulatory changes
 
-> 📝 **Changes**: Follow [Version Management](../technical/53-versioning.md) for updates.
+
