@@ -48,11 +48,9 @@ Ensure your evidence is well-documented and verifiable for faster validation.
 | Novice   | Complete onboarding | Basic access      |
 | Explorer | 3 validated skills  | Enhanced features |
 | Builder  | 5 contributions     | Special badge     |
-| Expert   | 10 validations      | Governance rights |
+| Governor | 10 validations      | Governance rights |
 
-{% hint style="success" %}
-Track your progress in the [Pheme Dashboard](https://app.phemeai.xyz/dashboard).
-{% endhint %}
+
 {% endtab %}
 {% endtabs %}
 
@@ -151,54 +149,8 @@ Track your learning progress in your Skill Wallet.
 {% endhint %}
 {% endtab %}
 
-{% tab title="🏗️ Builder Program" %}
-#### Project Development
-
-1. **Project Categories**
-   * Protocol integrations
-   * Tool development
-   * Documentation
-   * Community resources
-2. **Support Provided**
-   * Technical mentorship
-   * Resource allocation
-   * Project funding
-   * Marketing support
-
-{% hint style="success" %}
-Successful projects receive additional token rewards and recognition.
-{% endhint %}
-{% endtab %}
-
-{% tab title="👨‍🏫 Mentor Program" %}
-#### Mentorship Opportunities
-
-1. **Mentor Roles**
-   * Technical guidance
-   * Project review
-   * Career advice
-   * Skill validation
-2. **Requirements**
-   * Expert level skills
-   * Active participation
-   * Good standing
-   * Teaching ability
-
-{% hint style="info" %}
-Mentors earn additional reputation points and rewards.
-{% endhint %}
-{% endtab %}
-{% endtabs %}
 
 ## Community Events
-
-### Weekly Events
-
-| Day       | Event              | Description           |
-| --------- | ------------------ | --------------------- |
-| Monday    | Community Call     | Updates & discussions |
-| Wednesday | Technical Workshop | Hands-on learning     |
-| Friday    | AMA Session        | Q\&A with team        |
 
 ### Monthly Events
 
@@ -258,12 +210,12 @@ graph LR
     style D fill:#9f9,stroke:#333
 ```
 
-| Activity           | Points | Tokens   |
-| ------------------ | ------ | -------- |
-| Skill Validation   | 100    | 50 PHEME |
-| Content Creation   | 50     | 25 PHEME |
-| Event Organization | 75     | 35 PHEME |
-| Mentorship         | 150    | 75 PHEME |
+| Activity           | Points |
+| ------------------ | ------ |
+| Skill Validation   | 100    |
+| Content Creation   | 50     |
+| Task Completion    | 75     |
+| DAO Participation  | 150    |
 
 {% hint style="info" %}
 Points are calculated weekly and converted to tokens monthly.
@@ -368,7 +320,7 @@ Ready to get involved?
 * \[🚀 Create Skill Wallet]\(coming soon)
 * \[💬 Join Discord]\(coming soon)
 * [🐦 Follow Twitter](https://twitter.com/phemeai)
-* \[📚 Read Documentation]\(coming soon)
+* \[📚 Read Documentation]\(https://docs.phemeai.xyz)
 {% endhint %}
 
 {% hint style="info" %}

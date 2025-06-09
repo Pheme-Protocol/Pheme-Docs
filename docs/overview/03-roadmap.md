@@ -13,7 +13,6 @@ Pheme AI aims to revolutionize how skills are verified, tracked, and valued in t
 ## Current Status
 
 ### Phase 1: Foundation (Completed)
-- [x] Core team formation
 - [x] Initial whitepaper
 - [x] GitHub repository setup
 - [x] Smart contract architecture
@@ -182,7 +181,7 @@ Pheme AI aims to revolutionize how skills are verified, tracked, and valued in t
 Stay updated on our progress:
 - [Twitter](https://twitter.com/phemeai)
 - [Discord](coming soon)
-- [GitHub](https://github.com/PhemeAI/Pheme-Protocol)
+- [GitHub](https://github.com/Pheme-Protocol)
 - Monthly community calls
 
 ## Feedback & Adjustments

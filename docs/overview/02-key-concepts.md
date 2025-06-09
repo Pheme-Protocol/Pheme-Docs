@@ -279,8 +279,6 @@ Treasury decisions require community approval.
 
 {% hint style="success" %}
 Ready to dive deeper?
-* [🚀 Quick Start Guide](../get-started/01-quickstart.md)
-* [📖 Developer Guide](../developer-guide/00-development-setup.md)
 * [🤝 Community Guide](04-community-guides.md)
 {% endhint %}
 

@@ -60,10 +60,10 @@ Public scoring system incorporating:
 #### Initial Tokenomics (1B max supply)
 | Category | % | Vesting |
 |----------|---|---------|
-| Public Sale | 35% | Unlocked at TGE |
-| Team & Founders | 15% | 6-month cliff + 24-month linear |
+| Public Sale | 37.5% | Unlocked at TGE |
+| Team & Founders | 10% | 1-month cliff + 24-month linear |
 | DAO Treasury | 15% | Proposal-based release |
-| Liquidity | 10% | Locked 12 months |
+| Liquidity | 12.5% | Locked 12 months |
 | Community Rewards | 10% | Released over 36 months |
 | Marketing | 10% | Fully unlocked at launch |
 | Airdrops | 5% | Fully unlocked at launch |
@@ -82,7 +82,7 @@ Public scoring system incorporating:
 > 🤝 **Get Started**: See our [Community Guide](04-community-guides.md#-getting-started) for detailed steps.
 
 ### Getting Started
-1. Connect your Base wallet at [www.pheme-ai.xyz](https://www.pheme-ai.xyz)
+1. Connect your Base wallet at [www.phemeai.xyz](https://www.phemeai.xyz)
 2. Choose your skill path
 3. Mint your Skill Wallet
 4. Join the community
@@ -93,7 +93,7 @@ Public scoring system incorporating:
 - **Twitter**: [@phemeai](https://twitter.com/phemeai)
 - **Telegram**: coming soon
 - **Discord**: coming soon
-- **GitHub**: [github.com/PhemeAI](https://github.com/PhemeAI/Pheme-Protocol)
+- **GitHub**: [github.com/PhemeAI](https://github.com/Pheme-Protocol/)
 
 > 🌐 **Stay Connected**: Follow our [Updates & Communication](03-roadmap.md#updates--communication) channels.
 
@@ -151,17 +151,8 @@ GET /api/match?skill=solidity&score>75
 
 To start your Pheme AI journey:
 - [Read the Community Guide](04-community-guides.md)
-- [Follow the Quickstart Guide](../get-started/01-quickstart.md)
-- [Check Installation Guide](../get-started/02-installation.md)
-- [Explore Developer Documentation](../developer-guide/05-frontend.md)
 
 > 🚀 **Get Involved**: Find more ways to contribute in our [Community Guide](04-community-guides.md#-contribution-paths).
 
-
-
-> 📝 **Related Guides**: 
-> - [Development Standards](../technical/04-coding-standards.md)
-> - [Contribution Workflow](../technical/21-contribution-workflow.md)
-> - [Security Guidelines](../technical/05-security.md)
 
 WAGMI ✨ 

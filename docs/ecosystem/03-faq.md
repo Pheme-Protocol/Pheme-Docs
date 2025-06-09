@@ -70,7 +70,7 @@ Your skill profile is updated in real-time as you:
 ## Development Questions
 
 ### How can I contribute to Pheme AI?
-See our [Contributing Guidelines](../../CONTRIBUTING.md) for details on how to contribute.
+We'll update our technical documentation soon, follow our official channels for latest information.
 
 ### Where can I report bugs?
 Please open an issue on our GitHub repository with detailed information about the bug.
@@ -78,7 +78,7 @@ Please open an issue on our GitHub repository with detailed information about th
 ## Web3 Integration
 
 ### Do I need cryptocurrency to use Pheme AI?
-No, basic features don't require cryptocurrency. You only need a Web3 wallet for authentication and skill tracking.
+Yes, you need ETH (base) for transaction gas fees, as well as $Pheme for DAO activities.
 
 ### What happens if I lose access to my wallet?
 Your Skill Wallet and reputation are tied to your wallet address. Make sure to keep your wallet recovery phrase safe.
@@ -114,8 +114,6 @@ Yes, you have full control over your chat history and can delete it at any time.
 ### Where can I get help?
 - Check this FAQ
 - Visit our Discord community (coming soon)
-- Contact support@pheme-ai.xyz
 - Open a GitHub issue
 
-### How do I upgrade my account?
-Visit the account settings page while connected with your wallet to view upgrade options.
+
